@@ -1,0 +1,3 @@
+mvn archetype:generate
+mvn package
+java -cp target/Calculator-project-1.0-SNAPSHOT.jar com.calculator.App
